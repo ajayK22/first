@@ -4,9 +4,9 @@
 <apex:pageBlock >
 <apex:pageMessages ></apex:pageMessages>
 <apex:pageBlockButtons location="both">
-        <apex:commandButton action="{!save}" value="save"></apex:commandButton>
          <apex:commandButton action="{!cancel}" value="cancel"></apex:commandButton>
 </apex:pageBlockButtons>
+
 
 <apex:pageBlockSection columns="1" >
         <apex:inputField value="{!Position__c.department__c}"></apex:inputField>
