@@ -1,4 +1,4 @@
-<apex:page standardController="Position__c" id="thePage">
+<apex:page  id="thePage">
   <!-- Begin Default Content REMOVE THIS -->
 <apex:form >
 <apex:pageBlock >
